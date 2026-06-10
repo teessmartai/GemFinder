@@ -1,0 +1,5 @@
+data/
+__pycache__/
+*.pyc
+winners.csv
+.pytest_cache/
